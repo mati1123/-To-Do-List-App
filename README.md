@@ -8,4 +8,4 @@ A simple command-line To-Do List application built with Python and SQLite. The a
 - View all tasks with their ID, description, date, time, and status.
 - Update the status of any task by providing its ID.
 - Delete a task by providing its ID.
-- Data is saved in an SQLite database (`todo_list.db`) for persistence."# -To-Do-List-App" 
+- Data is saved in an SQLite database (`todo_list.db`) for persistence.
